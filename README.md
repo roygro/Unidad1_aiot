@@ -15,10 +15,7 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 
 # Teoria 
 ## NetAcad Python Fundamentals 2
-<img src="https://drive.google.com/file/d/1MpUEspKV2d-mvU2gFlTWZ04NhdUgn0jc/view?usp=drive_link" wigth=100/>
-<img src="https://drive.google.com/file/d/1CMmGPkSauIZB_mTLB1e1g2o2SfVIlh-K/view?usp=drive_link" wigth=100/>
-<img src="https://drive.google.com/file/d/1tEYJwsgYqsVWNXFs84D7l9AokxGbpXjV/view?usp=drive_link" wigth=100/>
-<img src="https://drive.google.com/file/d/1sbPsPBbMVmXq_MXFmfYxRiC5PjHCqUnQ/view?usp=drive_link" wigth=100/>
+Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViHtbbsLU_rBC2RY?usp=drive_link
 
 <br>
 
