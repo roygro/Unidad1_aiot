@@ -21,12 +21,12 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 
 # Practica
 ## Ejercicio 1. Almacenamiento de Datos y Ejercicio 2: Control de Actuadores
+https://drive.google.com/drive/folders/1ePl-27OL2kEvUKwbZN0OTxKv0XK_M3MH?usp=sharing
 
 <br>
 <br>
 
 
-## Ejercicios 3 (soldadura):Circuito funcional en placa fenólica
 
 ## Ejercicios 3 (soldadura): Circuito funcional en placa fenólica
 
