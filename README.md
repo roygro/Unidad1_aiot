@@ -32,14 +32,14 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 
 ## Ejercicios 3 (soldadura): Circuito funcional en placa fenólica
 
-<img src="https://drive.google.com/uc?export=view&id=1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA" width="50"/>
-<img src="https://drive.google.com/uc?export=view&id=1Dt4lalCZgzDO0QtzSdBGyJ-3q4eMAflH" width="100"/>
+<img src="https://drive.google.com/uc?export=view&id=1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA" width="150"/>
+<img src="https://drive.google.com/uc?export=view&id=1Dt4lalCZgzDO0QtzSdBGyJ-3q4eMAflH" width="150"/>
 
 <br>
 
 ## Ejercicios 4 (soldadura): Figura 2D o 3D soldada
 
-<img src="https://drive.google.com/uc?export=view&id=1V9xVktQPwy9U-pYlTwRwYl1bGNNF_KQH" width="100"/>
+<img src="https://drive.google.com/uc?export=view&id=1V9xVktQPwy9U-pYlTwRwYl1bGNNF_KQH" width="150"/>
 
 <br>
 
