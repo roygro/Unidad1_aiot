@@ -32,7 +32,7 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 
 ## Ejercicios 3 (soldadura): Circuito funcional en placa fenólica
 
-<img src="https://drive.google.com/uc?export=view&id=1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA" width="100"/>
+<img src="https://drive.google.com/uc?export=view&id=1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA" width="50"/>
 <img src="https://drive.google.com/uc?export=view&id=1Dt4lalCZgzDO0QtzSdBGyJ-3q4eMAflH" width="100"/>
 
 <br>
