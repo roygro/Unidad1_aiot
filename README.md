@@ -15,7 +15,7 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 
 # Teoria 
 ## NetAcad Python Fundamentals 2
-Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViHtbbsLU_rBC2RY?usp=drive_link
+Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViHtbbsLU_rBC2RY?usp=sharing
 
 <br>
 
@@ -30,13 +30,14 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 
 ## Ejercicios 3 (soldadura):Circuito funcional en placa fenólica
 
-<img src="https://github.com/user-attachments/assets/dc52473c-e66e-479e-8375-ed0265cee2ff" wigth=100/>
+<img src="https://drive.google.com/file/d/1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA/view?usp=sharing" wigth=100/>
+<img src="https://drive.google.com/file/d/1Dt4lalCZgzDO0QtzSdBGyJ-3q4eMAflH/view?usp=sharing" wigth=100/>
 
 <br>
 
 ## Ejercicios 4 (soldadura):Figura 2D o 3D soldada
 
-<img src="https://github.com/user-attachments/assets/a2543b07-6569-4ca6-af16-ea6a95d64a1b" wigth=100/>
+<img src="https://drive.google.com/file/d/1V9xVktQPwy9U-pYlTwRwYl1bGNNF_KQH/view?usp=sharing" wigth=100/>
 <br>
 
 ## Ejercicios en clase: Videos demostrativos
