@@ -23,6 +23,8 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 ## Ejercicio 1. Almacenamiento de Datos y Ejercicio 2: Control de Actuadores
 https://drive.google.com/drive/folders/1ePl-27OL2kEvUKwbZN0OTxKv0XK_M3MH?usp=sharing
 
+<img src="https://drive.google.com/uc?export=view&id=1mLPjL2zBQ08AsyEERT5Ue8DXpJtu-wqI" width="150"/>
+
 
 <br>
 <br>
