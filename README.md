@@ -46,5 +46,19 @@ https://drive.google.com/drive/folders/1ePl-27OL2kEvUKwbZN0OTxKv0XK_M3MH?usp=sha
 
 ## Ejercicios en clase: Videos demostrativos
 https://drive.google.com/drive/folders/1gqua6V7e8ARg5rZH31vTtbZb9p9EKa4u?usp=sharing
+
+Led 
+https://drive.google.com/file/d/1QuqHa-oMTGUi3lCMysUC7Ql0NXc4TTlC/view?usp=drive_link
+
+Mosquito
+https://drive.google.com/file/d/1L8WgstoiTg3a4qL-wF9lP0yLSnlwfL2g/view?usp=drive_link
+
+Configuracion 
+https://drive.google.com/file/d/1Me7Rsbz98Ar3bXHGJIkY-U8QNmcpV3p_/view?usp=drive_link
+
+CRUD
+https://drive.google.com/file/d/141pot45iMK5Y158ukgjdJeGLtwYULq8H/view?usp=drive_link
+
+
 <br>
 <br>
