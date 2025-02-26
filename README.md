@@ -56,6 +56,9 @@ https://drive.google.com/file/d/1QuqHa-oMTGUi3lCMysUC7Ql0NXc4TTlC/view?usp=drive
 
 Mosquito
 https://drive.google.com/file/d/1L8WgstoiTg3a4qL-wF9lP0yLSnlwfL2g/view?usp=drive_link
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1UcwZwNKzl7EGiWaHsa6dv3bbViDtzRWV" width="300"/>
+
 
 Configuracion 
 https://drive.google.com/file/d/1Me7Rsbz98Ar3bXHGJIkY-U8QNmcpV3p_/view?usp=drive_link
