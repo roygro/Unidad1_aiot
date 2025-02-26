@@ -62,6 +62,9 @@ https://drive.google.com/file/d/1Me7Rsbz98Ar3bXHGJIkY-U8QNmcpV3p_/view?usp=drive
 
 CRUD
 https://drive.google.com/file/d/141pot45iMK5Y158ukgjdJeGLtwYULq8H/view?usp=drive_link
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1nRM1n2rLW-5PH74bbsFa2cvMy7VHTKGp" width="300"/>
+
 
 
 <br>
